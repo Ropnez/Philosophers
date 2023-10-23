@@ -17,7 +17,7 @@ Yemek Yiyen Filozoflar Problemi, birden fazla işlemin (çatal) paylaşılan kay
 
 ## Sorun Tanımı
 
-Bu problemde, bir yuvarlak masa etrafında oturan beş filozof bulunur ve her filozofun yemek yemesi için iki çatala ihtiyacı vardır. Ancak, aynı anda sadece bir filozof bir çatalı alabilir. Sorun, her filozofun açlığını gidermesine izin veren bir çözüm tasarlamaktır.
+Bu problemde, bir yuvarlak masa etrafında oturan filozoflar bulunur ve her filozofun yemek yemesi için iki çatala ihtiyacı vardır. Ancak, aynı anda sadece bir filozof bir çatalı alabilir. Sorun, her filozofun açlığını gidermesine izin veren bir çözüm tasarlamaktır.
 
 ## Kullanım
 
@@ -51,7 +51,7 @@ The Dining Philosophers Problem is an illustrative example of a situation where 
 
 ## Problem Statement
 
-In this problem, there are five philosophers sitting at a round table, and each philosopher needs two forks to eat. However, only one philosopher can pick up a fork at a time. The challenge is to design a solution that allows each philosopher to eat without causing a deadlock.
+In this problem, there are philosophers sitting at a round table, and each philosopher needs two forks to eat. However, only one philosopher can pick up a fork at a time. The challenge is to design a solution that allows each philosopher to eat without causing a deadlock.
 
 ## Usage
 
